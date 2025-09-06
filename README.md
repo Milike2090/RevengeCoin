@@ -43,6 +43,10 @@ Our mission is to empower users with knowledge, protect newcomers from deception
 
 ---
 
+## 📱 Scan to visit the GitHub page
+
+![RevengeCoin QR Code](./qr-code.png)
+
 ## 📢 Contact
 
 For collaborations, support, or suggestions:  
