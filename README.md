@@ -3,7 +3,7 @@
 **Token Type:** BEP-20  
 **Network:** Binance Smart Chain  
 **Contract Address:** `0xde245dfe5b95558ab851fcd2ce0f892d428f7c`  
-**Total Supply:** 1,000,000 RVC  
+**Total Supply:** 1,000,000 RGC  
 **Launch Date:** September 2025  
 **Founder:** Milad
 
