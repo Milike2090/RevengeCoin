@@ -50,5 +50,5 @@ Our mission is to empower users with knowledge, protect newcomers from deception
 ## 📢 Contact
 
 For collaborations, support, or suggestions:  
-📧 Email: *(optional — you can add one)*  
-📱 Telegram: *(your handle or group link)*
+📧 Email: *(Miladketabi@Outlook.com)*  
+📱 Telegram: *(@Milike2090)*
