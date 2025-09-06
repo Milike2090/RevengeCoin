@@ -37,7 +37,7 @@ Our mission is to empower users with knowledge, protect newcomers from deception
 
 ## 🔗 Useful Links
 
-- [BscScan](https://bscscan.com/tx/0xf0440a2b4224fe5e0f0a3ff501927de6f0e683b0b93835205d368fb3aae34d07)  
+- [BscScan](https://bscscan.com/address/0xdE245dFE5B95558AB8551FcD2cE50f892d482f7C)  
 - [GitHub Repository](https://github.com/Milike2090/RevengeCoin)  
 - [Official Website](https://revengecoin.org) *(coming soon)*
 
